@@ -4,7 +4,7 @@
 
 ---
 
-##### [一种使用企业邮箱登陆的权限控制系统](https://github.com/meacial/e-book/blob/master/demo-project/springboot-sec-with-email)
+##### [一种使用企业邮箱登陆的权限控制系统](https://github.com/meacial/project-practice/blob/master/springboot-sec-with-email/springboot-security-with-email.zip)
 ```
 很多时候，我们需要创建授权访问系统。
 

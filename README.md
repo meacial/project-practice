@@ -5,6 +5,7 @@
 ---
 
 ##### [一种使用企业邮箱登陆的权限控制系统](https://github.com/meacial/project-practice/blob/master/springboot-sec-with-email/springboot-security-with-email.zip)
+> `springboot` `spring-security` `spring-mail`
 ```
 很多时候，我们需要创建授权访问系统。
 
